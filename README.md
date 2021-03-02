@@ -6,10 +6,10 @@ Mainly based on Daniel's Bourke [online course](https://academy.zerotomastery.io
 I try to pick similar datasets from Kaggle and apply similar analysis with extra visualizations.<br>
 
 Contents of this repo:
-- Structure 
-- Ask a question
-- Status/TODO
-- Log (updates, changes, progress) 
+- [Structure](https://github.com/MichaelSetyawan/TF_certification/blob/main/README.md#structure)
+- [Ask a question](https://github.com/MichaelSetyawan/TF_certification/blob/main/README.md#ask-a-question)
+- [Status/TODO](https://github.com/MichaelSetyawan/TF_certification/blob/main/README.md#statustodo)
+- [Log (updates, changes, progress)](https://github.com/MichaelSetyawan/TF_certification/blob/main/README.md#log)
 
 ## Structure 
 | Topic | Notebook | Resources |
