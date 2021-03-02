@@ -11,6 +11,11 @@ Contents of this repo:
 - Status/TODO
 - Log (updates, changes, progress) 
 
+## Structure 
+| Topic | Notebook | Resources |
+| --- | --- | --- |
+| TF Fundamentals | [TF_Fundmentals.ipynb](https://github.com/MichaelSetyawan/TF_certification/blob/main/TF_Fundamentals.ipynb)| TBC |
+
 ## Ask a question
 Contact [Michael Setyawan](m.setyawan7897@gmail.com) for questions 
 
@@ -19,4 +24,5 @@ Contact [Michael Setyawan](m.setyawan7897@gmail.com) for questions
 
 ## Log
 - February 28, 2021 :muscle: Start of this project & GitHub repo
+- March 05, 2021 (*Goal*) Finish with TF Fundamentals & TF Regression 
 
