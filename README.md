@@ -15,6 +15,7 @@ Contents of this repo:
 | Topic | Notebook | Resources |
 | --- | --- | --- |
 | TF Fundamentals | [TF_Fundmentals.ipynb](https://github.com/MichaelSetyawan/TF_certification/blob/main/TF_Fundamentals.ipynb)| TBC |
+| TF Regression | [TF_Regression.ipynb](https://github.com/MichaelSetyawan/TF_certification/blob/main/TF_Regression.ipynb) | TBC |
 
 ## Ask a question
 Contact [Michael Setyawan](m.setyawan7897@gmail.com) for questions 
@@ -24,5 +25,6 @@ Contact [Michael Setyawan](m.setyawan7897@gmail.com) for questions
 
 ## Log
 - February 28, 2021 :muscle: Start of this project & GitHub repo
-- March 05, 2021 (*Goal*) Finish with TF Fundamentals & TF Regression 
+- March 04, 2021: Finished with TF Fundamentals
+- March 06, 2021 :dart: Finished with TF Regression 
 
